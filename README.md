@@ -1,1 +1,3 @@
 # Tic-tac-toe-js
+
+Lets make a tic-tac0toe in js, send PRs if you guys find anything to improve... 
